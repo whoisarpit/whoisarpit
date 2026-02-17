@@ -1,6 +1,6 @@
 # Arpit R
 
-Founding Engineer at [Patched (YC S24)](https://www.ycombinator.com/companies/patched), building automatic business operations with AI.
+Founding Engineer at [Patched (YC S24)](https://www.ycombinator.com/companies/patched), building autonomous AI agents for automatic business operations.
 
 I work on systems that reduce repetitive ops work into reliable, agent-driven workflows.
 
